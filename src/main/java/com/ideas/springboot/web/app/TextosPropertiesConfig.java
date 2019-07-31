@@ -6,6 +6,7 @@ import org.springframework.context.annotation.PropertySources;
 
 /**
  * The Class TextosPropertiesConfig.
+ * @author Israel Bejarano
  */
 @Configuration
 @PropertySources({
